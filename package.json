@@ -1,5 +1,5 @@
 {
-  "name": "demo-t",
+  "name": "react-suspense-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
